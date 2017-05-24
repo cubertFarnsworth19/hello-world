@@ -1,3 +1,3 @@
 # hello-world
-Demo Repository /n
+Demo Repository \n
 Changes made to the readme file!
